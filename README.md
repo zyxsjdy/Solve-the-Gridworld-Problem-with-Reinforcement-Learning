@@ -6,7 +6,7 @@ For the Reinforcement Learning course Assignment 2 (see Gridworld Problem.pdf) a
 # Environment
 python 3.11.9
 
-Packages: numpy, cvxpy, random, copy
+Packages: numpy, cvxpy, copy
 
 # How to run
 Use Jupyter Notebook to open the '.ipynb' file, and click Run All to run the file.
