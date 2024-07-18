@@ -36,10 +36,10 @@ Part 2:
 
 Monte Carlo method
 
-On-policy Monte Carlo method with exploring starts
+On-policy Monte Carlo ES (exploring starts)
 
-On-policy Monte Carlo method without exploring starts (ϵ-soft policy)
+On-policy first-visit Monte Carlo control for ϵ-soft policy
 
-Off-policy MC prediction
+Off-policy Monte Carlo control
 
-Off-policy MC control
+Off-policy Monte Carlo prediction (policy evaluation)
