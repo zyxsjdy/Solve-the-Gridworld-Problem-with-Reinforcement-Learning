@@ -1,7 +1,7 @@
 # Solve-the-Gridworld-Problem-with-Reinforcement-Learning
 Based on the book --- Reinforcement Learning: An Introduction (2nd ed, 2018) by Sutton and Barto
 
-For the Reinforcement Learning course Assignment 2 at Memorial University of Newfoundland, Jul. 18, 2024
+For the Reinforcement Learning course Assignment 2 (see Gridworld Problem.pdf) at Memorial University of Newfoundland, Jul. 18, 2024
 
 # Environment
 python 3.11.9
