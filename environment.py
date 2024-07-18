@@ -82,10 +82,6 @@ class Environment_1:
                 else:
                     raise ValueError("Unknown value !!!!!!!!!!")
 
-        # for i in range(nb_states):
-        #     print(modle[i])
-
-
 
 #################################################
 #### Environment of the gridworld for part 2 ####
