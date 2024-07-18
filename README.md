@@ -15,19 +15,31 @@ Use Jupyter Notebook to open the '.ipynb' file, and click Run All to run the fil
 
 # Included topics
 Reinforcement Learning
+
 Gridworld problem
 
 Part 1:
+
 Bellman equation
+
 Bellman optimality equation
+
 Iterative policy evaluation
+
 Value iteration
+
 Policy iteration
+
 Policy improvement
 
 Part 2:
+
 Monte Carlo method
+
 On-policy Monte Carlo method with exploring starts
+
 On-policy Monte Carlo method without exploring starts (ϵ-soft policy)
+
 Off-policy MC prediction
+
 Off-policy MC control
