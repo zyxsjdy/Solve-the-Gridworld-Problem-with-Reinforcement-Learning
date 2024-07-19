@@ -3,6 +3,8 @@ Based on the book --- Reinforcement Learning: An Introduction (2nd ed, 2018) by 
 
 For the Reinforcement Learning course Assignment 2 (see Gridworld Problem.pdf) at Memorial University of Newfoundland, Jul. 18, 2024
 
+Author: Yuxiang and Nhien
+
 # Environment
 python 3.11.9
 
