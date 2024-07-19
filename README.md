@@ -45,3 +45,7 @@ On-policy first-visit Monte Carlo control for ϵ-soft policy
 Off-policy Monte Carlo control
 
 Off-policy Monte Carlo prediction (policy evaluation)
+
+# Reference
+https://marcinbogdanski.github.io/rl-sketchpad/
+https://github.com/BY571/Medium_Code_Examples
