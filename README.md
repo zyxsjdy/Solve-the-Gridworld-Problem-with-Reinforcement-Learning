@@ -13,7 +13,7 @@ Use Jupyter Notebook to open the '.ipynb' file, and click Run All to run the fil
 
 'P1.ipynb' for part 1, 'P2.ipynb' for part 2, and 'environment.py' for the gridworld environment.
 
-See explanation in 'Report.pdf'.
+See explanation for results in 'Report.pdf'.
 
 # Included topics
 Reinforcement Learning
