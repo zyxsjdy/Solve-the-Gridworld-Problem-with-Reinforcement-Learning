@@ -48,7 +48,7 @@ Off-policy Monte Carlo control
 
 Off-policy Monte Carlo prediction (policy evaluation)
 
-# Reference
+# Referencesss
 https://marcinbogdanski.github.io/rl-sketchpad
 
 https://github.com/BY571/Medium_Code_Examples
